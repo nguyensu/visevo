@@ -1,5 +1,3 @@
-# WCCI-CEC 2020 Tutorial: Visualising the search process of EC algorithms
-
 This page hosts the materials for the WCCI-CEC 2020 Tutorial "Visualising the search process of EC algorithms". More information about the conference program can be found at https://wcci2020.org/
 
 ## Background
@@ -9,25 +7,14 @@ Evolutionary computation (EC) algorithms have been successfully applied to a wid
 This tutorial aims at demonstrating how visualisation can be used to help researchers gain insights about EC algorithms. In this tutorial, we will review the applications of visualisation in EC such as visualising performance and generated solutions and highlight a new visualisation framework to capture high-level evolutionary patterns of EC algorithms. The following main topics will be covered in this 1.5-hour tutorial: 
 
 - Quick recap of EC algorithms and applications 
-
 - A review of visualisation techniques for EC algorithms 
-
 - AI-based visualisation (AIV) framework to reveal evolutionary patterns of EC algorithms 
-
   - Dimensionality reduction 
-
   - Topological data analysis 
-
   - Visual analytics 
-
 - Case studies:  
-
   - Evolving classifiers using genetic programming and particle swarm optimisation 
-
   - Automated design of production scheduling heuristics with genetic programming 
-
   - Evolving artificial neural networks 
-
 - Using Python to implement the AIV framework 
-
 - From AIV framework to people-centric evolutionary systems 
