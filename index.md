@@ -1,6 +1,6 @@
 This page hosts the materials for the WCCI-CEC 2020 Tutorial "Visualising the search process of EC algorithms". More information about the conference program can be found at <https://wcci2020.org/>
 
-# Background
+## Background
 
 Evolutionary computation (EC) algorithms have been successfully applied to a wide range of artificial intelligence (AI) problems ranging from function optimisation, production scheduling, to evolutionary deep learning. EC researchers have been continuously developed new techniques to enhance the performance of EC algorithms. However, it is still very challenging to fully understand the behaviours of these algorithms due to the complexity of solution representations and search operators. As a result, researchers mainly rely on the performance results from experiments to suggest which algorithms perform better and to understand how novel features impact the final performance. In these studies, some questions usually left unanswered are how better results are obtained and whether the proposed algorithms behave as conceptually designed. Thus, it is critical to have an analysis tool that can help researchers gain insights on how the algorithms work and capture useful emerging patterns. 
 
