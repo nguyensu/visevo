@@ -1,4 +1,4 @@
-## [Home](https://nguyensu.github.io/visevo.github.io/) | [References](https://nguyensu.github.io/visevo.github.io/references)
+## [Home](https://nguyensu.github.io/visevo/) | [References](https://nguyensu.github.io/visevo/references)
 
 ## References
 
