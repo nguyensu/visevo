@@ -2,6 +2,7 @@
 
 ## References
 
+- Krzysztof Michalak, "Low-Dimensional Euclidean Embedding for Visualization of Search Spaces in Combinatorial Optimization", IEEE Transactions on Evolutionary Computation, 2019, Vol. 23, 2, pp. 232-246. 
 - Su Nguyen, Mengjie Zhang, Damminda Alahakoon, Kay Chen Tan, “Visualising the Evolution of Computer Programs for Production Scheduling”, IEEE Computational Intelligence Magazine, 2018, Vol. 13, 4, pp. 77-94. 
 - James McDermott, “Visualising evolutionary search spaces”, ACM SIGEVOlution archive, 2014, Vol. 7 Issue 1, pp. 2-10. 
 - Hartmut Pohlheim, “Visualization of Evolutionary Algorithms - Set of Standard Techniques and Multidimensional Visualization”, GECCO'99 Proceedings of the 1st Annual Conference on Genetic and Evolutionary Computation, 1999, Vol. 1, pp. 533-540. 
